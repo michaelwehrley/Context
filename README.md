@@ -16,4 +16,4 @@
 
 * Stoll, Clifford. (1990) _The Cuckoo's Egg_. New York, NY: Doubleday
 
-* Beatty,Jack. On Point news analyst.
+* Beatty,Jack. [On Point](https://www.wbur.org/onpoint) news analyst.
