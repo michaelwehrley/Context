@@ -1,5 +1,11 @@
 ## Words
 
+#### Behooves
+
+“Code is expensive. Writing it costs time or money. It therefore behooves you to be as efficient as possible. The most cost-effective code is as good as necessary, but no better.”
+
+Excerpt From: Sandi Metz, Katrina Owen. “99 Bottles of OOP.” Apple Books. 
+
 #### Exigent/Exigent Circumstances
 > Jeh Johnson, DHS secretary under the Obama administration, told NPR earlier this month that he couldn’t say that family separations “never happened” during his tenure. “There may have been some [**exigent**](https://www.google.com/search?q=exigent) situation, some emergency. There may have been some doubt about whether the adult accompanying the child was in fact the parent of the child. I can’t say it never happened but not as a matter of policy or practice. It’s not something that I could ask our Border Patrol or our immigration enforcement personnel to do,” Johnson said.
 >
@@ -17,6 +23,9 @@
 #### Mythos
 > Before _Solo: A Star Wars Story_, there was a [**mythos**](https://www.google.com/search?q=mythos) about Han Solo and Chewbacca. There were references in the original episodes, but know one really knew the details.
 > <cite style="color: gray;">-- Saravia, 3/30/2019</cite>
+
+#### Ostentatious
+Politico: I'am a chairman in excile, dude
 
 #### Purloin
 > Knowing my adversary, I could easily lock him out in a way that would mystify him. I built a trapdoor into our Elxsi: whenever the hacker touched the [**purloined**](https://www.dictionary.com/browse/purloin) accounts on that machine, it notified me and pretended to be too busy to accept another user.
